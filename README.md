@@ -1,6 +1,6 @@
 # Kivy Template
 
-A blank Kivy project. You can use these code files as a template for create a new screen.
+This is a blank Kivy project. You can use these code files as a template for create a new screen.
 
 * think of a name for your page
 * rename `mypagename.kv` to your new name
