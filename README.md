@@ -29,7 +29,7 @@ class TitleApp(App):
 if __name__ == '__main__':
     TitleApp().run()
 ~~~
-{: .language-python}
+{:.python}
 
 and my `title.kv` file will look like this:
 
