@@ -3,9 +3,9 @@
 A blank Kivy project. You can use these code files as a template for create a new screen.
 
 * think of a name for your page
-* rename mypagename.kv to your new name
+* rename `mypagename.kv` to your new name
  * this file should be all in lower case and contain no spaces
-* rename MyPageName in the main.py and the .kv file
+* rename `MyPageName` in the `main.py` and the `.kv` file
  * you may use mixed case here to separate words
 
 ## Example
